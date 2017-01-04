@@ -7,6 +7,6 @@ entries:
     digest: feec48abbfb93ae0fd197e9b91cecc3047d73d78ae4e63bca46d684f5e836974
     name: nginx
     urls:
-    - https://alanchchen.github.io/helm-repo/nginx-0.1.0.tgz
+    - nginx-0.1.0.tgz
     version: 0.1.0
 generated: 2017-01-04T16:58:47.520510245+08:00
